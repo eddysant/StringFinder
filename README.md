@@ -3,4 +3,4 @@ C# utility to find unused resource strings, to save money on translation service
 
 Used like:
 
-<pre>> StringFinder -root <root-path> -resx <resource-file> -output <output-file></pre>
+<pre>&gt; StringFinder -root &lt;root-path&gt; -resx &lt;resource-file&gt; -output &lt;output-file&gt;</pre>
